@@ -28,8 +28,6 @@ from tg_bot.modules.helper_funcs.misc import paginate_modules
 PM_START_TEXT = """
 
 
-❤❣   (>‿◠)✌   ❤❣
-
 Hello {}, MY NAME IS {} !
 
 I AM A FUNNIEST BUT STRICT GROUP MANAGER BOT
