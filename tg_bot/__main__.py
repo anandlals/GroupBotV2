@@ -32,7 +32,7 @@ Hello {}, MY NAME IS {} !
 
 I AM A FUNNIEST BUT STRICT GROUP MANAGER BOT
 I am Open Source and my Code can be Found [here](github.com/KshitijGagan/GroupBotV2)
-
+@elitedarkray
 To Donate us Hit /donate
 You can get Support Here [Support Group](t.me/BotSupportGroup)
 
@@ -53,7 +53,7 @@ Hello! my name *{}*.
  - /settings:
    - in PM: will send you your settings for all supported modules.
    - in a group: will redirect you to pm, with all that chat's settings.
-
+@elitedarkray
 
 {}
 And the following:
@@ -61,7 +61,7 @@ And the following:
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
 Currently, I am hosted on one of Heroku's Servers and doesn't require any donations as of now but \
-You can Donante of supporting him; [PayPal](paypal.me/KshitijGagan)."""
+You can Donante of supporting him; [PayPal](paypal.me/KshitijGagan) @elitedarkray ."""
 
 
 
